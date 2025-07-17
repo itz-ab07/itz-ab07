@@ -28,7 +28,7 @@
 |--------------|----------------------------------|
 | 💻 Languages | `C++`, `C`, `JavaScript`         |
 | 🌐 Frontend  | `HTML`, `CSS`, `TailwindCSS`     |
-| 🔧 Tools     | `Git`, `GitHub`, `VS Code`, `Figma` |
+| 🔧 Tools     | `Git`, `GitHub`, `VS Code` |
 | 🧠 Learning  | `React`, `DSA`, `Open Source`     |
 
 ---
