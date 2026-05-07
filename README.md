@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Ansh Bhutani</h1>
+<h1 align="center">Hey there, I'm Ansh Bhutani</h1>
 <p align="center">
   Aspiring Web Developer | UI/UX Enthusiast | Open Source Contributor
 </p>
