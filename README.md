@@ -107,7 +107,7 @@ Modern portfolio website developed for a freelance designer, showcasing projects
 ## Let's Connect
 
 <p align="left">
-<a href="mailto:bhutaniansh18@gmail.com"> • Email</a> •
+<a href="mailto:bhutaniansh18@gmail.com"> Email</a> •
 <a href="https://www.linkedin.com/in/ansh-bhutani-245580333"> LinkedIn</a>
 </p>
 
