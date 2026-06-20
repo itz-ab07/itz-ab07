@@ -73,9 +73,9 @@ Modern portfolio website developed for a freelance designer, showcasing projects
 
 ## Competitive Programming
 
-- **LeetCode:** 400+ Problems Solved | **1960 Max Rating**
-- **CodeChef:** 3★ Rated Coder | **1612 Max Rating**
-- **Codeforces:** Pupil | **1265 Max Rating**
+- **LeetCode:** Knight | **1960 Max Rating**
+- **CodeChef:** 3★ Rated Coder | **1644 Max Rating**
+- **Codeforces:** Pupil | **1267 Max Rating**
 - **AtCoder:** 6 Kyu | **944 Rating**
 
 ---
